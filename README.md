@@ -1,5 +1,7 @@
 # Speech to Text Converter with Word Export
 
+![Speech to Text Converter](image.jpg)
+
 This is a simple web application that converts speech to text using the Web Speech API and allows you to download the transcribed text as a Word document.
 
 ## Features
