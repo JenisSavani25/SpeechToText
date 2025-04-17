@@ -71,4 +71,4 @@ Then access the application at `http://localhost:8000`
 
 ## License
 
-This project is open-source and free to use. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
